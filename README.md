@@ -2,6 +2,8 @@
 fcl x ttpktm mod
 
 1 Better, more consistent performance
+<img width="854" height="480" alt="1001416571" src="https://github.com/user-attachments/assets/bfbda18c-2ca5-424f-b963-22834d2e46e6" />
+
 
 2 Upgraded for more stable game loading speeds
 
