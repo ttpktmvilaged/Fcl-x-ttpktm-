@@ -10,6 +10,9 @@ fcl x ttpktm mod
 
 
 4 Pin game versions to your home screen for easy access and management
+<img width="854" height="480" alt="1001416568" src="https://github.com/user-attachments/assets/422cf955-d32d-431e-a333-1282528c6fd2" />
+
+
 
 5  HDR game 
 <img width="1600" height="720" alt="1000838150" src="https://github.com/user-attachments/assets/ecb07f27-1d32-49fd-a9ef-25a111e258ba" /> 
