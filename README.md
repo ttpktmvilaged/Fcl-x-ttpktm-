@@ -6,6 +6,8 @@ fcl x ttpktm mod
 
 
 2 Upgraded for more stable game loading speeds
+<img width="854" height="480" alt="1001416572" src="https://github.com/user-attachments/assets/20db73fb-7072-42a4-9fe7-025b128e3202" />
+
 
 3 Better live wallpaper display with minimal performance impact
 <img width="854" height="480" alt="1001416565" src="https://github.com/user-attachments/assets/609403e1-38b3-4047-aadc-cad2c88ed935" />
